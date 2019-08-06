@@ -1,15 +1,11 @@
 {
-  "name": "@crystallize/react-basket",
-  "description": "React component to ease integration with Crystallize",
+  "name": "react-shopping-basket",
+  "description": "",
   "version": "7.0.0",
   "private": false,
   "license": "MIT",
   "engines": {
     "node": ">=8"
-  },
-  "repository": {
-    "url": "git@github.com:CrystallizeAPI/react-basket.git",
-    "type": "git"
   },
   "main": "dist/index.js",
   "scripts": {
