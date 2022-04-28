@@ -169,7 +169,7 @@
     "@crystallize/react-image": "^2.3.0",
     "body-parser": "^1.18.2",
     "bounce": "^1.2.0",
-    "cross-fetch": "^2.2.3",
+    "cross-fetch": "^3.1.5",
     "isarray": "^2.0.4",
     "localforage": "^1.6.0",
     "prop-types": "^15.7.2",
